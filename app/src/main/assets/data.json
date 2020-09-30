@@ -1,0 +1,40 @@
+{
+    "formulas": [
+		{
+		  "formula": "Linear Motion",
+		  "url": "https://en.wikipedia.org/wiki/Linear_motion"
+		},
+		{
+		  "formula": "Constant Acceleration Motion",
+		  "url": "http://farside.ph.utexas.edu/teaching/301/lectures/node18.html"
+		},
+		{
+		  "formula": "Projectile Motion",
+		  "url": "https://en.wikipedia.org/wiki/Projectile_motion"
+		},
+		{
+		  "formula": "Force",
+		  "url": "https://en.wikipedia.org/wiki/Force"
+		},
+		{
+		  "formula": "Work, Power, Energy",
+		  "url": "https://en.wikiversity.org/wiki/Work,_Power,_and_Energy"
+		},
+		{
+		  "formula": "Rotary Motion",
+		  "url": "https://en.wikipedia.org/wiki/Rotation_around_a_fixed_axis"
+		},
+		{
+		  "formula": "Harmonic Motion",
+		  "url": "https://en.wikipedia.org/wiki/Simple_harmonic_motion"
+		},
+		{
+		  "formula": "Gravity",
+		  "url": "https://en.wikipedia.org/wiki/Gravity"
+		},
+		{
+		  "formula": "Electrostatics",
+		  "url": "https://en.wikipedia.org/wiki/Electrostatics"
+		}
+	]
+}
